@@ -1,9 +1,9 @@
 <p align="center"><img src="docs/mark.png" width="64" alt="Refery" /></p>
 <h1 align="center">Refery</h1>
 <p align="center">The recruiting partner network for VC-backed startups.<br/>This repo explains how it works. The code lives in private repos.</p>
-<p align="center"><a href="https://refery.io">refery.io</a> · <a href="https://refery.xyz">refery.xyz</a> · <a href="https://refery.xyz/guide">Partner guide</a> · <a href="CHANGELOG.md">Changelog</a></p>
+<p align="center"><a href="https://refery.io">refery.io</a> · <a href="https://app.refery.io">app.refery.io</a> · <a href="https://app.refery.io/guide">Partner guide</a> · <a href="CHANGELOG.md">Changelog</a></p>
 
-![refery.xyz, where partners work](docs/desk.png)
+![app.refery.io, where partners work](docs/desk.png)
 
 ## What it does
 
